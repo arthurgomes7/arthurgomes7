@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Arthur Gines and I'm a Software Engineer Student, from São Paulo, Brazil.</h2>
 
 ###
 
