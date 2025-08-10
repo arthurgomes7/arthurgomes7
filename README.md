@@ -1,39 +1,22 @@
-<img align="right" height="150" src="https://i.imgflip.com/a0e0yj.gif"  />
+## Olá eu sou o Arthur Gomes, e sou Desenvolvedor Backend!
 
-###
+<p>Sou um desenvolvedor de software apaixonado por criar soluções que facilitam a vida das pessoas e otimizam processos. Tenho conhecimento em desenvolvimento backend, trabalhando com tecnologias como Java, Python e SQL. Gosto de aprender continuamente, explorar novas ferramentas e aplicar boas práticas de código limpo e escalável.
 
-<h2 align="left">Hi 👋! My name is Arthur Gomes and I'm a Software Engineer Student, from São Paulo, Brazil.</h2>
+Estou motivado para atuar com desenvolvimento em geral — seja web, aplicativos ou softwares — com um foco especial em backend. Tenho muita vontade de crescer profissionalmente, aprimorar minhas habilidades e, no futuro, construir minha própria empresa, onde possa aplicar tudo o que aprendi e criar soluções inovadoras.
 
-###
+Estou aberto a colaborar em projetos desafiadores, compartilhar conhecimento e crescer profissionalmente em equipes inovadoras.</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/arthursza7/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://www.linkedin.com/in/arthurgomes7/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurgomes7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurgomes7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/arthursza7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthurgomes7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ###
